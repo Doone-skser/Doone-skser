@@ -6,8 +6,8 @@
 
 ## 博客地址
 
-* 个人（中国）: https://halee.cc
-* 个人（全球）: https://nvidia.fun
+* 个人（中国）: https://www.halee.cc
+* 个人（全球）: https://www.nvidia.fun
 
 ## 联系方式
 
