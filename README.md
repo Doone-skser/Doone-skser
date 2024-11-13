@@ -2,7 +2,7 @@
 
 ## 语言
 
-主写python，正在学习cpp、java、php等
+主写python，正在学习rust、cpp、java等
 
 ## 博客地址
 
