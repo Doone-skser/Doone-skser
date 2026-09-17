@@ -2,13 +2,12 @@
 
 ## 语言
 
-主写python，正在学习rust、cpp、java等
+主写python、rust、cpp、java等
 
 ## 博客地址
 
 * 个人（中国）: https://www.halee.cc
-* 个人（全球）: https://www.nvidia.fun
 
 ## 联系方式
 
-* 邮箱：admin@nvidia.fun
+* 邮箱：x@doone.cc
