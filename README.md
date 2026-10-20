@@ -2,11 +2,7 @@
 
 ## 语言
 
-主写python、rust、cpp、java等
-
-## 博客地址
-
-* 个人（中国）: https://www.halee.cc
+ai 时代 啥都能搞，但偏爱python rust
 
 ## 联系方式
 
